@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-9cf?style=plastic&logo=go&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-blueviolet?style=plastic&logo=python&logoColor=white" />
-  <img alt="markdown" src="https://img.shields.io/badge/-Markdown-E34F26?style=critical&logo=markdown&logoColor=white" />
+  <img alt="markdown" src="https://img.shields.io/badge/-Markdown-critical?style=plastic&logo=markdown&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-orange?style=plastic&logo=github-actions&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-Mysql-lightgrey?style=plastic&logo=mysql&logoColor=white" />
