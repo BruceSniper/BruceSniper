@@ -19,10 +19,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brucesniper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://github.com/BruceSniper/BruceSniper/blob/master/count.svg" />
-</p>
