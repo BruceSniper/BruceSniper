@@ -21,7 +21,9 @@ Here are some ideas to get you started:
   <img alt="Python" src="https://img.shields.io/badge/-Python-blueviolet?style=plastic&logo=python&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/-Mysql-informational?style=plastic&logo=mysql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white" />
+  <img alt="neo4j" src="https://img.shields.io/badge/-Neo4j-green?style=plastic&logo=neo4j&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
 </p>
 
