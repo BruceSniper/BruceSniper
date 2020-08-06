@@ -1,4 +1,4 @@
-### Hi I'm Bruce Zhang 👋
+### Hi I'm Bruce Zhang, A Gopher studying in JiangSu University, ZhenJiang, China 👋
 
 <!--
 **BruceSniper/BruceSniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
