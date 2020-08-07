@@ -15,7 +15,7 @@
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/brucesniper/brucesniper)
-![pv](https://pageview.vercel.app/?github_user=brucesniper)
+<!-- ![pv](https://pageview.vercel.app/?github_user=brucesniper) -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brucesniper&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
