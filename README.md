@@ -1,5 +1,5 @@
-### Hi I'm Bruce Zhang, A Gopher studying in JiangSu University, ZhenJiang, China 👋
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Bruce Zhang</h1>
+<h3 align="center">A Gopher studying in JiangSu University, ZhenJiang, China</h3>
 <!--
 **BruceSniper/BruceSniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
